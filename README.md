@@ -20,13 +20,13 @@ simplifying job searches and enhancing the experience for users across different
 
 <h2>Main Features</h2> 
 
-• User Profile <br>
-    Users can create personalized profiles. <br>
-• Job Posting <br>
-    Users can post job vacancies with detailed information. <br>
-• User Registration Requirement <br>
-    Only registered users can apply for job vacancies. <br>
-• Company Information <br>
-    Users can see more details of the companies. <br>
-• User Job Search <br>
-    Easier for people to find jobs by using advanced filters and personalized profiles.<br>
+- User Profile <br>
+    <pre>Users can create personalized profiles. </pre>
+- Job Posting <br>
+    <pre>Users can post job vacancies with detailed information. </pre>
+- User Registration Requirement <br>
+    <pre>Only registered users can apply for job vacancies. </pre>
+- Company Information <br>
+    <pre>Users can see more details of the companies. </pre>
+- User Job Search <br>
+    <pre>Easier for people to find jobs by using advanced filters and personalized profiles.</pre>
